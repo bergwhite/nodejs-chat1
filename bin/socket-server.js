@@ -157,5 +157,5 @@ io.on('connection', function (socket) {
   });
 })
 // 监听8089端口
-server.listen(8089)
-console.log('socket-server on 8089')
+server.listen(8083)
+console.log('socket-server on 8083')
